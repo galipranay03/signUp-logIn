@@ -1,0 +1,82 @@
+#first{
+    text-align: center;
+    color: burlywood;
+    background-color:blueviolet;
+    margin: 30px;
+    padding: 5px;
+    border-radius: 20ch;
+    
+}
+
+.signin{
+    background-color:pink;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    margin-right: 50pc;
+}
+
+.bodychange{
+   
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+    background-color: antiquewhite;
+}
+
+#h2{
+    color: blueviolet;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-top: 80px;
+    padding-bottom: 30px;
+    
+}
+.fname{
+    margin-left: 100px;
+    padding-bottom: 25px;
+}
+.lname{
+    margin-left: 100px;
+    padding-bottom: 25px;
+}
+.email{
+    margin-left: 124px;
+    padding-bottom: 25px;
+}
+.pswd{
+    margin-left: 105px;
+    padding-bottom: 25px;
+}
+.gender{
+    margin-left: 105px;
+    padding-bottom: 25px;
+}
+.numb{
+    margin-left: 65px;
+    padding-bottom: 25px;
+}
+.signup{
+    margin-left: 200px;
+    padding-bottom: 25px;
+}
+.login{
+    margin-left: 80px;
+    
+}
+
+.welcome{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-transform: capitalize;
+    
+}
+.flogin{
+    text-align: center;
+    padding-bottom: 100px;
+   
+}
+.last{
+    text-align: center;
+    padding: 50px;
+}
